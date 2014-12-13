@@ -1,0 +1,10 @@
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\bin\Debug\ANN_Img_simple.exe
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\bin\Debug\ANN_Img_simple.pdb
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.Properties.Resources.resources
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.csproj.GenerateResource.Cache
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.exe
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.pdb
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.ANN.resources
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.csprojResolveAssemblyReference.cache
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\bin\Debug\ANN_Img_simple.exe.config
+D:\Tulisan\script\C#\ANN_Img_simple\ANN_Img_simple\obj\x86\Debug\ANN_Img_simple.DrawingPanel.resources
